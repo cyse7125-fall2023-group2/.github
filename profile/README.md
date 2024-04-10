@@ -1,12 +1,6 @@
-## Hi there 👋
+Workflow:
+<img width="770" alt="image" src="https://github.com/cyse7125-fall2023-group2/.github/assets/114118569/2c73da42-8567-4d86-88ef-0aa560f994b2">
 
-<!--
+Architecture:
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<img width="936" alt="image" src="https://github.com/cyse7125-fall2023-group2/.github/assets/114118569/f945d638-30c6-427c-86e6-e1bbb37af899">
